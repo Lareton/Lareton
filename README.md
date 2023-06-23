@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nikita Iltyakov</h1>
 <h3 align="center">A junior ML&DS engineer from Siberia</h3>
 
-- 🌱 I’m currently learning **RL**
 
 - 📫 How to reach me **iltyakov.nik@mail.ru or iltyakov.nik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/nikitailtyakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikitailtyakov" height="30" width="40" /></a>
-<a href="https://instagram.com/iltyakow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iltyakow" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lareton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lareton" height="30" width="40" /></a>
+<a href="https://t.me/iltyakow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lareton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
