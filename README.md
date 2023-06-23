@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://kaggle.com/nikitailtyakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikitailtyakov" height="30" width="40" /></a>
 <a href="https://t.me/iltyakow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lareton" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lareton" target="blank" style="margin-left: 100px"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="lareton" height="30" width="40" /></a>
+&nbsp<a href="https://codeforces.com/profile/lareton" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="lareton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
