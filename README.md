@@ -2,9 +2,9 @@
 <h3 align="center">A junior ML&DS engineer from Siberia</h3>
 
 
-📧 Mail: **iltyakov.nik@mail.ru** or **iltyakov.nik@gmail.com**
-🎓 At the moment I am in the 11th grade
-🎯 Specialization: CV, NLP
+- 📧 Mail: **iltyakov.nik@mail.ru** or **iltyakov.nik@gmail.com**
+- 🎓 At the moment I am in the 11th grade
+- 🎯 Specialization: CV, NLP
 
 <h3 align="left">Public profiles:</h3>
 <p align="left">
@@ -12,6 +12,17 @@
 <a href="https://t.me/iltyakow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lareton" height="30" width="40" /></a>
 &nbsp&nbsp&nbsp<a href="https://codeforces.com/profile/lareton" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="lareton" height="30" width="40" /></a>
 </p>
+
+
+**ACHIEVEMENTS**
+- 🥇 хакатон Цифровой прорыв (ДФО, 2022) - кейс "Поиск аномалий в базах данных рыболовства" - first place
+- 🥇 Digital pharmacology hack - first place
+- 🥇 Сompetition of scientific and technological projects "Big Challenges" - (DS&ML section) - twice solo winner
+- 🥈 AIIJC (2021) - sphere: AI in education - second place
+- 🏆 all-Russian AI Olympiad - solo prize winner
+- 🏆 all-Russian national Technological Olympiad on AI - solo prize winner
+	
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
