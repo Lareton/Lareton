@@ -7,7 +7,6 @@
 - 🎯 Specialization: CV, NLP
 
 
-<h3 align="left">Achievements</h3>
 - 🥇 хакатон Цифровой прорыв (ДФО, 2022) - кейс "Поиск аномалий в базах данных рыболовства" - first place
 - 🥇 Digital pharmacology hack - first place
 - 🥇 Сompetition of scientific and technological projects "Big Challenges" - (DS&ML section) - twice solo winner
