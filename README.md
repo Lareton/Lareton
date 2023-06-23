@@ -6,6 +6,7 @@
 - 🎓 At the moment I am in the 11th grade
 - 🎯 Specialization: CV, NLP
 
+<h3 align="left">Achievements</h3>
 
 - 🥇 хакатон Цифровой прорыв (ДФО, 2022) - кейс "Поиск аномалий в базах данных рыболовства" - first place
 - 🥇 Digital pharmacology hack - first place
