@@ -3,7 +3,6 @@
 
 
 - 📧 Mail: **iltyakov.nik@mail.ru** or **iltyakov.nik@gmail.com**
-<! --   - 🎓 At the moment I am in the 11th grade)  --> 
 - 🎯 Specialization: CV, NLP
 
 <h3 align="left">Achievements</h3>
