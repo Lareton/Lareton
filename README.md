@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Iltyakov</h1>
-<h3 align="center">A junior ML&DS engineer from Siberia</h3>
+<h3 align="center">A ML&DS engineer from Siberia</h3>
 
 
 - 📧 Mail: **iltyakov.nik@mail.ru** or **iltyakov.nik@gmail.com**
