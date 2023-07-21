@@ -13,10 +13,11 @@
 - 🥈 AIIJC (2021) - sphere: AI in education - second place
 - 🏆 all-Russian AI Olympiad - solo prize winner
 - 🏆 all-Russian national Technological Olympiad on AI - solo prize winner
-	
+
+
 <h3 align="left">Papers</h3>
 On accelerated coordinate descent methods for searching equilibria in two-stage transportation equilibrium traffic flow distribution model, July, 2023
-**[arxiv paper link](https://arxiv.org/abs/2307.10469)**
+<br> **[arxiv paper link](https://arxiv.org/abs/2307.10469)** </br>
 
 <h3 align="left">Public profiles</h3>
 <p align="left">
