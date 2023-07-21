@@ -17,7 +17,7 @@
 
 <h3 align="left">Papers</h3>
 On accelerated coordinate descent methods for searching equilibria in two-stage transportation equilibrium traffic flow distribution model, July, 2023
-<br> **https://arxiv.org/abs/2307.10469** </br>
+<br> https://arxiv.org/abs/2307.10469 </br>
 
 <h3 align="left">Public profiles</h3>
 <p align="left">
