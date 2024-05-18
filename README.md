@@ -22,7 +22,7 @@ On accelerated coordinate descent methods for searching equilibria in two-stage 
 <h3 align="left">Public profiles</h3>
 <p align="left">
 <a href="https://kaggle.com/nikitailtyakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikitailtyakov" height="30" width="40" /></a>
-<a href="https://t.me/iltyakow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lareton" height="30" width="40" /></a>
+<a href="https://t.me/Nikita_iltyakov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lareton" height="30" width="40" /></a>
 &nbsp&nbsp&nbsp<a href="https://codeforces.com/profile/lareton" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="lareton" height="30" width="40" /></a>
 </p>
 
