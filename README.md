@@ -7,9 +7,9 @@
 
 <h3 align="left">Achievements</h3>
 
-- 🥇 хакатон Цифровой прорыв (ДФО, 2022) - кейс "Поиск аномалий в базах данных рыболовства" - first place
-- 🥇 Digital pharmacology hack - first place
-- 🥇 Сompetition of scientific and technological projects "Big Challenges" - (DS&ML section) - twice solo winner
+- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2022, case: fraud search in fishing databases)
+- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2023, case: prediction of the load on the baggage handling system at the airport)  
+- 🥇 Сompetition of scientific and technological projects ["Big Challenges"](https://konkurs.sochisirius.ru/)  (DS&ML section) 
 - 🥈 [AIIJC](https://aiijc.com/ru/) (2021)
 - 🏆 all-Russian AI Olympiad - solo prize winner
 - 🏆 all-Russian national Technological Olympiad on AI - solo prize winner
