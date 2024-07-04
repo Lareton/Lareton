@@ -10,7 +10,7 @@
 - 🥇 хакатон Цифровой прорыв (ДФО, 2022) - кейс "Поиск аномалий в базах данных рыболовства" - first place
 - 🥇 Digital pharmacology hack - first place
 - 🥇 Сompetition of scientific and technological projects "Big Challenges" - (DS&ML section) - twice solo winner
-- 🥈 (AIIJC)[https://aiijc.com/ru/] (2021)
+- 🥈 [AIIJC](https://aiijc.com/ru/) (2021)
 - 🏆 all-Russian AI Olympiad - solo prize winner
 - 🏆 all-Russian national Technological Olympiad on AI - solo prize winner
 
