@@ -12,8 +12,7 @@
 - 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2022, case: fraud search in fishing databases) [solution](https://github.com/talkiiing-team/atlantis)
 - 🥇 Сompetition of scientific and technological projects ["Big Challenges"](https://konkurs.sochisirius.ru/)  (DS&ML section) [repository](https://github.com/Lareton/deep_knowledge_tracing)
 - 🥈 [AIIJC](https://aiijc.com/ru/) (2021)
-
-- 🏆 all-Russian national Technological Olympiad on AI - solo prize winner
+- 🏆 all-Russian national Technological Olympiad on AI (prize winner)
 
 
 <h3 align="left">Papers</h3>
