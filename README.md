@@ -7,8 +7,9 @@
 
 <h3 align="left">Achievements</h3>
 
-- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2022, case: fraud search in fishing databases)
-- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2023, case: prediction of the load on the baggage handling system at the airport)  
+
+- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2023, case: prediction of the load on the baggage handling system at the airport) [solution](https://github.com/talkiiing-team/birka-hack-ai)
+- 🥇 Hackaton [digital breakthrough](https://hacks-ai.ru/) (2022, case: fraud search in fishing databases) [solution](https://github.com/talkiiing-team/atlantis)
 - 🥇 Сompetition of scientific and technological projects ["Big Challenges"](https://konkurs.sochisirius.ru/)  (DS&ML section) 
 - 🥈 [AIIJC](https://aiijc.com/ru/) (2021)
 - 🏆 all-Russian AI Olympiad - solo prize winner
