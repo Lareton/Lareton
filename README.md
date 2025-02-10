@@ -7,7 +7,7 @@
 
 <h3 align="left">Competition background</h3>
 
-- 🥇[AIDAO - Artificial intelligence and data analysis Olympiad](https://education.yandex.ru/aidao) (2025, case: validation of a car for a taxi service based on a set of photos) 
+- 🥈[AIDAO - Artificial intelligence and data analysis Olympiad](https://education.yandex.ru/aidao) (2025, case: validation of a car for a taxi service based on a set of photos) 
 - 🥇[AI Challenge](https://aiijc.com/ru/) (2024, case: detection of speech defects by audio) [solution](https://github.com/alexsmirnov6/tbank-aic)
 - 🥇 Hackaton [digital breakthrough, international level](https://hacks-ai.ru/) (2024, case: Automatic dispatch of applications) [solution](https://github.com/BondarchukGleb42/mailstic)
 - 🥇 Hackaton [digital breakthrough, all-Russian level](https://hacks-ai.ru/) (2024, case: Search for duplicate videos, Yappy) [solution](https://github.com/Lareton/digital_hack_yappy)
